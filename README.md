@@ -1,2 +1,5 @@
-# hotel-review-sentiment-analysis-NLP-
-a commit from our verzeo internship
+# hotel-review-sentiment-analysis-NLP-machine-learning
+just a push from our verzeo internship 
+
+
+
